@@ -7,16 +7,14 @@
 
 
 
-Are Greenland Glacial Earthquakes Remotely Triggered by Major Earthquakes? 
+###  Are Greenland Glacial Earthquakes Remotely Triggered by Major Earthquakes? 
 
 
-Large calving events in marine-terminating glaciers produce vibrations in the solid earth known as "glacial earthquakes", detectable at large distances and cataloged by the Harvard's Global CMT (from 1993-2013). 
+Large calving events in marine-terminating glaciers produce vibrations in the solid earth known as "glacial earthquakes", detectable at large distances and cataloged by the Harvard's Global CMT (from 1993-2013). I want to investigate if major (M>8) earthquakes around the globe can trigger the occurrence of glacial earthquakes at Greenland. I will use the Global CMT catalog of glacial earthquakes as well as the USGS global M>8 earthquakes (from 1993-2013) to investigate any possible temporal correlations between the two groups.
 
-I want to investigate if major (M>8) earthquakes around the globe can induce glacial earthquakes at Greenland to occur. I will use the Global CMT catalog of glacial earthquakes as well as the USGS global M>8 earthquakes (from 1993-2013) to investigate any possible temporal correlations between the two groups.
-
-Data: 
-Global CMT catalog of glacial earthquakes (from 1993-2013)
-USGS global M>8 earthquakes 		    (from 1993-2013)
+#### Data: 
+[Global CMT catalog of glacial earthquakes (from 1993-2013)](https://www.globalcmt.org/Events/)
+[USGS global M>8 earthquakes 		    (from 1993-2013)](https://earthquake.usgs.gov/earthquakes/search/)
  
  
  
