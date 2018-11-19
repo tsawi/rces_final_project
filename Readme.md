@@ -13,9 +13,9 @@
 Large calving events in marine-terminating glaciers produce vibrations in the solid earth known as "glacial earthquakes", detectable at large distances and cataloged by the Harvard's Global CMT (from 1993-2013). I want to investigate if major (M>8) earthquakes around the globe can trigger the occurrence of glacial earthquakes at Greenland. I will use the Global CMT catalog of glacial earthquakes as well as the USGS global M>8 earthquakes (from 1993-2013) to investigate any possible temporal correlations between the two groups.
 
 #### Data: 
-[Global CMT catalog of glacial earthquakes (from 1993-2013)](https://www.globalcmt.org/Events/)  
+[Global CMT catalog of glacial earthquakes (from 1993-2013)](https://www.ldeo.columbia.edu/~gcmt/projects/CMT/catalog/GLEA/GLEA_1993_2013_merged.txt)  
   
-[USGS global M>8 earthquakes 		    (from 1993-2013)](https://earthquake.usgs.gov/earthquakes/search/)  
+[USGS global M>8 earthquakes 		    (from 1993-2013)](https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=1993-01-01&endtime=2013-12-31&minmagnitude=8)  
   
     
  
