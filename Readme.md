@@ -38,11 +38,11 @@ Large calving events in marine-terminating glaciers produce vibrations in the so
 ######## previous idea -- but having trouble getting spatial data to work! Maybe I can get help with this...############
 
 
-### Greenland Ice Sheet Calving Vulnerability Analysis 
+#### Greenland Ice Sheet Calving Vulnerability Analysis 
 
 ~ or, time permitting ~
 
-### Using Machine Learning to Predict Calving Vulnerability at the Greenland Ice Sheet
+#### Using Machine Learning to Predict Calving Vulnerability at the Greenland Ice Sheet
 
 
 Large calving events in marine-terminating glaciers produce vibrations in the solid earth known as "glacial earthquakes", detectable at large distances and cataloged by the Harvard's Global CMT.   
