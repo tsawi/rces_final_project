@@ -49,12 +49,12 @@ Large calving events in marine-terminating glaciers produce vibrations in the so
   
 I plan to use this catalog of glacial earthquakes, along with maps of estimated ice properties (velocity, basal thermal state, and surface melt) in order to investigate correlations between the ice properties and locations of the glacial earthquakes in the Greenland Ice Sheet.  
   
-*(1) I will split the earthquake data into two parts; a training set to help build a 'glacial earthquake vulnerability map', and a testing set to test the predictive power of this vulnerability map.   
+* (1) I will split the earthquake data into two parts; a training set to help build a 'glacial earthquake vulnerability map', and a testing set to test the predictive power of this vulnerability map.    
   
-*(2) The 'glacial earthquake vulnerability map' will be formed by weighting and then combining the ice properties maps, using the seismic training set to empirically tune the weights.*(time permitting, this could be done using a Random Forest Algorithm, see below). It will be averaged over time (not exactly sure how yet -- seasonally perhaps), and simplified into a binary "glacial earthquake will or will not occur here" map.  
+* (2) The 'glacial earthquake vulnerability map' will be formed by weighting and then combining the ice properties maps, using the seismic training set to empirically tune the weights.*(time permitting, this could be done using a Random Forest Algorithm, see below). It will be averaged over time (not exactly sure how yet -- seasonally perhaps), and simplified into a binary "glacial earthquake will or will not occur here" map.   
   
-*(3) I will then see what percentage of glacial earthquakes from the testing set occur within regions predicted by the vulnerability map, in order to estimate its predictive power.   
-
+* (3) I will then see what percentage of glacial earthquakes from the testing set occur within regions predicted by the vulnerability map, in order to estimate its predictive power.    
+ 
   
 
 ~~ Machine Learning Prediction ~~   
