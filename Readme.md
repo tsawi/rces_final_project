@@ -14,10 +14,14 @@ Large calving events in marine-terminating glaciers produce vibrations in the so
 
 #### Data: 
 [Global CMT catalog of glacial earthquakes (from 1993-2013)](https://www.globalcmt.org/Events/)  
-[USGS global M>8 earthquakes 		    (from 1993-2013)](https://earthquake.usgs.gov/earthquakes/search/)
+  
+[USGS global M>8 earthquakes 		    (from 1993-2013)](https://earthquake.usgs.gov/earthquakes/search/)  
+  
+    
  
  
- 
+
+#### File structure  
  .
 ├── data  
 │   ├── balancevelo  
