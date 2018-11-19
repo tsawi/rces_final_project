@@ -1,0 +1,26 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2013-05-24T05:44:48.980Z,54.892,153.221,598.1,8.3,mww,385,10,,1.02,us,usb000h4jh,2018-09-28T15:50:34.357Z,"Sea of Okhotsk",earthquake,,4.1,,,reviewed,us,us
+2013-02-06T01:12:25.830Z,-10.799,165.114,24,8,mww,460,20.9,,1.29,us,usc000f1s0,2018-10-17T20:37:49.468Z,"76km W of Lata, Solomon Islands",earthquake,,,,,reviewed,us,us
+2012-04-11T10:43:10.850Z,0.802,92.463,25.1,8.2,mwc,341,14.9,,0.9,us,usp000jhjb,2017-11-14T14:43:51.550Z,"off the west coast of northern Sumatra",earthquake,,7.3,,,reviewed,us,us
+2012-04-11T08:38:36.720Z,2.327,93.063,20,8.6,mw,499,16.6,,1.33,official,official20120411083836720_20,2018-10-17T20:36:26.118Z,"off the west coast of northern Sumatra",earthquake,,,,,reviewed,us,official
+2011-03-11T05:46:24.120Z,38.297,142.373,29,9.1,mww,541,9.5,,1.16,official,official20110311054624120_30,2018-10-17T20:34:32.261Z,"near the east coast of Honshu, Japan",earthquake,,,,,reviewed,us,official
+2010-02-27T06:34:11.530Z,-36.122,-72.898,22.9,8.8,mww,454,17.8,,1.09,official,official20100227063411530_30,2018-10-17T20:32:37.633Z,"offshore Bio-Bio, Chile",earthquake,,9.2,,,reviewed,us,official
+2009-09-29T17:48:10.990Z,-15.489,-172.095,18,8.1,mwc,520,20.8,,1.01,us,usp000h1ys,2018-10-17T20:30:35.607Z,"Samoa Islands region",earthquake,,,,,reviewed,us,gcmt
+2007-09-12T11:10:26.830Z,-4.438,101.367,34,8.4,mww,411,32.3,,1.03,official,official20070912111026830_34,2018-10-17T20:28:43.352Z,"southern Sumatra, Indonesia",earthquake,,,,,reviewed,us,official
+2007-08-15T23:40:57.890Z,-13.386,-76.603,39,8,mwc,625,25.7,,0.86,us,usp000fjta,2018-10-17T20:28:32.629Z,"near the coast of central Peru",earthquake,,,,,reviewed,us,gcmt
+2007-04-01T20:39:58.710Z,-8.466,157.043,24,8.1,mwc,439,14.7,,1.32,us,usp000f83m,2018-10-17T20:28:15.646Z,"Solomon Islands",earthquake,,,,,reviewed,us,gcmt
+2007-01-13T04:23:21.160Z,46.243,154.524,10,8.1,mwc,606,14,,1.12,us,usp000f2ab,2018-10-17T20:27:54.374Z,"east of the Kuril Islands",earthquake,,,,,reviewed,us,gcmt
+2006-11-15T11:14:13.570Z,46.592,153.266,10,8.3,mwc,576,20.9,,1.07,us,usp000exfn,2018-10-17T20:27:43.975Z,"Kuril Islands",earthquake,,,,,reviewed,us,gcmt
+2006-05-03T15:26:40.290Z,-20.187,-174.123,55,8,mwc,626,20.7,,1.18,us,usp000eg5g,2018-10-17T20:27:24.932Z,"Tonga",earthquake,,,,,reviewed,us,hrv
+2005-03-28T16:09:36.530Z,2.085,97.108,30,8.6,mww,510,22.1,,0.91,official,official20050328160936530_30,2018-10-17T20:26:09.585Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,official
+2004-12-26T00:58:53.450Z,3.295,95.982,30,9.1,mw,601,22,,1.17,official,official20041226005853450_30,2017-11-08T18:19:08.120Z,"off the west coast of northern Sumatra",earthquake,,,,,reviewed,us,official
+2004-12-23T14:59:04.410Z,-49.312,161.345,10,8.1,mwc,331,59.3,,1.12,us,usp000db93,2018-10-17T20:25:57.306Z,"north of Macquarie Island",earthquake,,,,,reviewed,us,hrv
+2003-09-25T19:50:06.360Z,41.815,143.91,27,8.3,mwc,669,27.4,,0.88,us,usp000c8kv,2018-10-17T19:46:02.044Z,"Hokkaido, Japan region",earthquake,,,,,reviewed,us,hrv
+2001-06-23T20:33:14.130Z,-16.265,-73.641,33,8.4,mww,518,,,1.05,official,official20010623203314130_33,2018-10-17T19:39:17.990Z,"near the coast of southern Peru",earthquake,,,,,reviewed,us,official
+2000-11-16T04:54:56.740Z,-3.98,152.169,33,8,mwc,254,,,1.2,us,usp000a3qq,2018-10-17T19:38:35.171Z,"New Ireland region, Papua New Guinea",earthquake,,,,,reviewed,us,hrv
+1998-03-25T03:12:25.070Z,-62.877,149.527,10,8.1,mwc,,,,1.1,us,usp0008hzd,2018-10-17T17:10:11.462Z,"Balleny Islands region",earthquake,,,,,reviewed,us,hrv
+1996-02-17T05:59:30.550Z,-0.891,136.952,33,8.2,mw,,,,1.3,us,usp0007d1w,2018-10-17T17:08:50.584Z,"Biak region, Indonesia",earthquake,,,,,reviewed,us,hrv
+1995-10-09T15:35:53.910Z,19.055,-104.205,33,8,mw,,,,1.3,us,usp00074vc,2018-10-17T17:08:22.713Z,"Colima, Mexico",earthquake,,,,,reviewed,us,hrv
+1995-07-30T05:11:23.630Z,-23.34,-70.294,45.6,8,mw,,,,1.1,us,usp000714t,2018-10-17T17:08:05.822Z,"Antofagasta, Chile",earthquake,,,,,reviewed,us,hrv
+1994-10-04T13:22:55.840Z,43.773,147.321,14,8.3,mw,,,,0.9,us,usp0006kdp,2018-10-17T17:07:40.022Z,"Kuril Islands",earthquake,,4.7,,,reviewed,us,hrv
+1994-06-09T00:33:16.230Z,-13.841,-67.553,631.3,8.2,mw,,,,1.1,us,usp0006dzc,2017-04-13T22:06:46.435Z,"La Paz, Bolivia",earthquake,,,,,reviewed,us,hrv
