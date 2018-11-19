@@ -1,9 +1,10 @@
-Theresa Sawi
-
-tms2193
+## Final Project Description
 
 
-Final Project Description
+#### Theresa Sawi  
+##### tms2193
+
+
 
 
 Are Greenland Glacial Earthquakes Remotely Triggered by Major Earthquakes? 
