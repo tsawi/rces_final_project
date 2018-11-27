@@ -4,6 +4,7 @@ channels:
     - defaults
 dependencies:
     - python=3.6    # Python version 3.6
+    - obspy
     - basemap       # mapping package
     - cartopy       # Geographic plotting toolkit
     - h5py          # Wrapper for HDF5
