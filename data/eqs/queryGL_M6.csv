@@ -1,0 +1,16 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2012-08-30T13:43:25.170Z,71.441,-10.605,14,6.8,mww,622,40,,1.11,us,usp000jr55,2015-06-30T16:59:03.993Z,"Jan Mayen Island region",earthquake,,,,,reviewed,us,us
+2012-05-24T22:47:46.800Z,72.96,5.683,10,6.1,mww,579,20.6,,1.18,us,usp000jkw6,2014-11-07T01:47:52.522Z,"Norwegian Sea",earthquake,,,,,reviewed,us,us
+2011-01-29T06:55:27.520Z,70.931,-6.657,15,6.2,mwc,562,18.2,,0.92,us,usp000htt3,2015-06-30T16:59:03.781Z,"Jan Mayen Island region",earthquake,,,,,reviewed,us,us
+2009-08-20T06:35:04.430Z,72.2,0.944,6,6,mwc,465,22.8,,0.93,us,usp000h0nu,2016-11-10T02:16:19.987Z,"Norwegian Sea",earthquake,,,,,reviewed,us,us
+2009-07-07T19:11:46.710Z,75.351,-72.453,19,6.1,mwc,347,33.3,,1,us,usp000gz0t,2016-11-10T02:14:23.283Z,"Baffin Bay",earthquake,,,,,reviewed,us,us
+2009-03-06T10:50:29.410Z,80.324,-1.853,9,6.5,mwc,341,14.5,,0.9,us,usp000gupr,2016-11-10T02:09:03.472Z,"north of Svalbard",earthquake,,,,,reviewed,us,gcmt
+2008-05-29T15:46:00.320Z,64.005,-21.013,9,6.3,mwc,591,39.3,,0.97,us,usp000g826,2017-04-26T18:08:14.788Z,"Iceland",earthquake,,,,,reviewed,us,gcmt
+2008-02-21T02:46:18.190Z,77.079,18.571,12,6.1,mwc,637,23.9,,0.81,us,usp000fzeu,2016-11-10T01:52:06.029Z,"Svalbard region",earthquake,,,,,reviewed,us,gcmt
+2005-04-02T12:52:36.590Z,78.607,6.098,10,6.1,mwb,473,33.1,,0.92,us,usp000dm0e,2016-11-10T01:04:03.621Z,"Svalbard region",earthquake,,,,,reviewed,us,us
+2004-04-14T23:07:39.940Z,71.067,-7.747,12.2,6,mwb,506,43.5,,0.89,us,usp000csgu,2016-11-10T00:31:31.526Z,"Jan Mayen Island region",earthquake,,3.8,,,reviewed,us,us
+2000-06-21T00:51:46.880Z,63.98,-20.758,10,6.5,mwc,351,,,0.9,us,usp0009ux8,2017-04-26T17:57:19.879Z,"Iceland",earthquake,,,,,reviewed,us,hrv
+2000-06-17T15:40:41.730Z,63.966,-20.487,10,6.5,mwc,406,,,1.03,us,usp0009urh,2017-04-26T17:57:17.599Z,"Iceland",earthquake,,,,,reviewed,us,hrv
+2000-05-21T19:58:47.410Z,71.19,-8.263,10,6,mwc,,,,0.95,us,usp0009t9n,2016-11-09T22:34:14.257Z,"Jan Mayen Island region",earthquake,,,,,reviewed,us,hrv
+1998-03-21T16:33:11.000Z,79.888,1.856,10,6.2,mwc,,,,1.01,us,usp0008htd,2016-11-10T00:29:36.091Z,"Greenland Sea",earthquake,,,,,reviewed,us,hrv
+1998-02-16T23:53:19.720Z,52.718,-33.677,10,6.8,mwc,,,,0.83,us,usp0008g3e,2016-11-10T00:26:24.159Z,"Reykjanes Ridge",earthquake,,,,,reviewed,us,hrv

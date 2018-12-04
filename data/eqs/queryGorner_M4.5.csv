@@ -1,0 +1,29 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2007-07-31T13:37:49.000Z,36.786,5.849,0,4.1,m,16,258.9,,,us,usp000fhh7,2014-11-07T01:33:05.778Z,"northern Algeria",earthquake,,,,,reviewed,mdd,mdd
+2007-07-31T03:33:05.900Z,40.61,21.5,17,4.2,ml,52,65.9,,,us,usp000fhg4,2014-11-07T01:33:05.669Z,"Greece",earthquake,,,,,reviewed,ath,the
+2007-07-30T19:05:42.260Z,44.919,10.049,0.1,4.2,mb,257,17.5,,,us,usp000fhf7,2014-11-07T01:33:05.473Z,"northern Italy",earthquake,,,,5,reviewed,gen,us
+2007-07-30T19:05:30.490Z,44.9,10.085,15.1,4.1,ml,31,191.2,,,us,usp000fhf6,2014-11-07T01:33:05.450Z,"northern Italy",earthquake,,,,,reviewed,gen,ldg
+2007-07-30T16:43:06.100Z,38.3,20.41,13,4.1,ml,74,85.5,,,us,usp000fhf1,2014-11-07T01:33:05.432Z,"Greece",earthquake,,,,,reviewed,ath,ath
+2007-07-29T16:38:08.510Z,37.748,19.731,0,4.4,ml,56,99,,,us,usp000fhcc,2014-11-07T01:33:05.161Z,"Ionian Sea",earthquake,,,,,reviewed,the,the
+2007-07-29T05:43:00.000Z,38.811,27.725,6.2,4.6,ml,32,112.5,,,us,usp000fhbh,2014-11-07T01:33:05.093Z,"western Turkey",earthquake,,,,,reviewed,isk,the
+2007-07-26T16:07:06.000Z,38.77,32.573,4.8,4.2,mb,15,107.9,,,us,usp000fh4w,2014-11-07T01:33:04.086Z,"central Turkey",earthquake,,,,1,reviewed,isk,us
+2007-07-26T09:28:18.400Z,35.048,33.189,54,4,m,52,55,,,us,usp000fh4a,2014-11-07T01:33:03.977Z,"Cyprus region",earthquake,,,,,reviewed,nic,nic
+2007-07-26T09:03:57.400Z,39.74,20.67,25,4.5,ml,90,39.9,,,us,usp000fh47,2014-11-07T01:33:03.966Z,"Greece-Albania border region",earthquake,,,,,reviewed,ath,the
+2007-07-19T04:25:26.300Z,40.13,21.67,18,4.6,mb,86,23.7,,,us,usp000fgky,2014-11-07T01:33:00.487Z,"Greece",earthquake,,,,1,reviewed,ath,us
+2007-07-18T19:09:29.820Z,40.587,22.798,7.6,4.1,mb,101,18.7,,,us,usp000fgjy,2015-03-24T00:50:17.242Z,"Greece",earthquake,,,,6,reviewed,the,us
+2007-07-18T10:54:11.600Z,43.741,15.174,3,4.7,ml,294,17.7,,,us,usp000fgj2,2014-11-07T01:32:59.852Z,"Adriatic Sea",earthquake,,,,,reviewed,zag,pdg
+2007-07-18T02:51:49.000Z,39.327,29.331,7.6,4.3,ml,20,84.8,,,us,usp000fgh8,2014-11-07T01:32:59.767Z,"western Turkey",earthquake,,,,,reviewed,isk,the
+2007-07-18T00:59:59.290Z,35.398,-0.108,11,4.1,mb,76,97.2,,,us,usp000fggt,2014-11-07T01:32:59.717Z,"northern Algeria",earthquake,,,,2,reviewed,mdd,us
+2007-07-17T21:09:25.300Z,40.15,21.62,19,4,ml,13,90.4,,,us,usp000fgfx,2014-11-07T01:32:59.439Z,"Greece",earthquake,,,,,reviewed,ath,the
+2007-07-17T18:23:21.970Z,40.157,21.532,22.6,4.9,mb,365,19.2,,1.33,us,usp000fgfa,2014-11-07T01:32:59.013Z,"Greece",earthquake,,3.9,,126,reviewed,us,us
+2007-07-14T02:30:46.680Z,39.28,20.158,0,4.1,ml,69,54.3,,,us,usp000fg4h,2014-11-07T01:32:57.346Z,"Greece-Albania border region",earthquake,,,,,reviewed,the,the
+2007-07-09T15:58:22.260Z,34.091,7.043,10,4.8,mwc,210,46.1,,1.22,us,usp000ffvd,2016-11-10T01:42:00.710Z,"northern Algeria",earthquake,,,,,reviewed,us,gcmt
+2007-07-08T12:48:38.400Z,35.62,21.94,45,4,m,31,175.6,,,us,usp000ffs4,2014-11-07T01:32:55.604Z,"central Mediterranean Sea",earthquake,,,,,reviewed,ath,ath
+2007-07-08T03:27:02.000Z,35.25,27.89,22,4,md,51,102.5,,,us,usp000ffqp,2014-11-07T01:32:55.408Z,"Dodecanese Islands, Greece",earthquake,,,,,reviewed,ath,ath
+2007-07-07T03:36:38.750Z,51.583,15.994,5,4,mb,92,31.8,,1.29,us,usp000ffmz,2014-11-07T01:32:55.009Z,"Poland",earthquake,,,,3,reviewed,us,us
+2007-07-06T23:30:08.500Z,38.232,22.61,2,4,ml,17,58.9,,,us,usp000ffmk,2014-11-07T01:32:54.981Z,"Greece",earthquake,,,,,reviewed,the,the
+2007-07-06T19:01:47.610Z,38.238,22.692,1.5,4.1,mb,126,34.4,,,us,usp000ffm6,2014-11-07T01:32:54.928Z,"Greece",earthquake,,,,19,reviewed,the,us
+2007-07-05T07:27:32.460Z,39.284,20.217,0,4,ml,66,52.1,,,us,usp000ffha,2014-11-07T01:32:54.596Z,"Greece-Albania border region",earthquake,,,,,reviewed,the,the
+2007-07-04T23:55:32.000Z,38.8,15.2,279,5.2,mwc,558,17,,,us,usp000ffgq,2016-11-10T01:41:50.381Z,"Sicily, Italy",earthquake,,,,,reviewed,rom,gcmt
+2007-07-04T23:00:14.260Z,39.241,20.181,0,4.1,ml,61,54.1,,,us,usp000ffgm,2014-11-07T01:32:54.434Z,"Greece-Albania border region",earthquake,,,,,reviewed,the,ath
+2007-07-03T16:11:31.700Z,39.28,20.24,18,4,ml,48,52.9,,,us,usp000ffcy,2014-11-07T01:32:53.642Z,"Greece-Albania border region",earthquake,,,,,reviewed,ath,the

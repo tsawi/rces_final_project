@@ -1,0 +1,16 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2018-11-30T17:29:29.206Z,61.3234,-149.9234,44.1,7,mww,,,,0.7,ak,ak20419010,2018-12-02T17:12:08.789Z,"12km N of Anchorage, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2018-08-12T21:15:01.841Z,69.5205,-144.3602,1.7,6.1,ml,,,,0.85,ak,ak20083478,2018-10-17T18:11:51.040Z,"73km SSW of Kaktovik, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2018-08-12T14:58:54.286Z,69.5619,-145.2998,2.2,6.3,ml,,,,0.72,ak,ak20076877,2018-11-21T00:17:36.993Z,"90km SW of Kaktovik, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2018-01-23T09:31:40.890Z,56.0039,-149.1658,14.06,7.9,mww,,30,2.585,0.77,us,us2000cmy3,2018-11-26T22:18:16.896Z,"280km SE of Kodiak, Alaska",earthquake,6,2.8,0.034,81,reviewed,us,us
+2017-05-01T14:18:15.290Z,59.8295,-136.7042,2.53,6.3,mww,,,,0.85,us,us10008mgu,2017-07-29T03:16:11.040Z,"88km WNW of Skagway, Alaska",earthquake,2.8,3.2,,,reviewed,pgc,us
+2017-05-01T12:31:55.590Z,59.8209,-136.7114,10,6.2,mww,,28,0.554,0.96,us,us10008mel,2017-09-17T03:29:05.688Z,"88km WNW of Skagway, Alaska",earthquake,4.1,1.7,,,reviewed,us,us
+2016-01-24T10:30:30.230Z,59.6363,-153.4051,129,7.1,mww,,19,0.72,2.11,us,us10004gqp,2018-10-17T21:48:40.300Z,"86km E of Old Iliamna, Alaska",earthquake,5,1.8,,,reviewed,us,us
+2015-07-29T02:35:59.000Z,59.8935,-153.1961,119.3,6.3,ms,,,,0.84,ak,ak11661615,2017-05-07T04:48:11.331Z,"70km SSW of Redoubt Volcano, Alaska",earthquake,0.3,0.2,,,reviewed,ak,ak
+2015-05-29T07:00:09.000Z,56.594,-156.43,72.6,6.7,ms,,,,0.85,ak,ak11610140,2016-11-10T21:47:45.424Z,"99km NNW of Chirikof Island, Alaska",earthquake,0.5,0.8,,,reviewed,ak,ak
+2014-09-25T17:51:17.000Z,61.9449,-151.8159,108.9,6.2,ml,,,,1.02,ak,ak11401855,2017-10-11T20:57:19.771Z,"96km WNW of Willow, Alaska",earthquake,0.3,0.4,,,reviewed,ak,ak
+2014-07-25T10:54:49.720Z,58.3062,-136.9601,10,6.1,mww,,28,1.14,1.36,us,usb000rx5i,2015-01-28T15:24:14.545Z,"72km W of Gustavus, Alaska",earthquake,,1.7,,,reviewed,us,us
+2014-07-17T11:49:33.000Z,60.3491,-140.3333,10,6,mb,,,,1.15,ak,ak11328120,2015-01-30T08:42:19.903Z,"90km NNW of Yakutat, Alaska",earthquake,0.2,,,,reviewed,ak,ak
+2013-01-05T08:58:19.330Z,55.393,-134.652,10,7.5,mww,659,28.5,,1.26,us,usp000jxum,2018-10-17T20:37:37.780Z,"Southeastern Alaska",earthquake,,,,,reviewed,us,us
+2012-11-12T20:42:14.620Z,57.792,-142.855,9,6.3,mww,821,59.7,,0.82,us,usp000jvfa,2018-07-07T02:36:06.446Z,"Gulf of Alaska",earthquake,,,,,reviewed,us,us
+2011-07-16T19:59:12.890Z,54.787,-161.29,36,6.1,mww,720,47.6,,1.36,us,usp000j51f,2018-07-06T23:40:59.527Z,"Alaska Peninsula",earthquake,,,,,reviewed,us,us

@@ -1,0 +1,9 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2018-08-19T00:19:40.670Z,-18.1125,-178.153,600,8.2,mww,,13,3.63,0.79,us,us1000gcii,2018-10-27T16:22:06.040Z,"286km NNE of Ndoi Island, Fiji",earthquake,9.6,1.9,0.045,47,reviewed,us,us
+2017-09-08T04:49:19.180Z,15.0222,-93.8993,47.39,8.2,mww,,22,0.944,1.22,us,us2000ahv0,2018-10-17T21:53:47.257Z,"101km SSW of Tres Picos, Mexico",earthquake,6.2,3.7,0.058,29,reviewed,us,us
+2015-09-16T22:54:32.860Z,-31.5729,-71.6744,22.44,8.3,mww,,19,0.684,1.02,us,us20003k7a,2018-10-17T20:59:27.421Z,"48km W of Illapel, Chile",earthquake,4.7,3.2,,,reviewed,us,us
+2014-04-01T23:46:47.260Z,-19.6097,-70.7691,25,8.2,mww,,23,0.609,0.66,us,usc000nzvd,2018-11-04T03:17:56.461Z,"94km NW of Iquique, Chile",earthquake,,1.8,,,reviewed,us,us
+2013-05-24T05:44:48.980Z,54.892,153.221,598.1,8.3,mww,385,10,,1.02,us,usb000h4jh,2018-09-28T15:50:34.357Z,"Sea of Okhotsk",earthquake,,4.1,,,reviewed,us,us
+2013-02-06T01:12:25.830Z,-10.799,165.114,24,8,mww,460,20.9,,1.29,us,usc000f1s0,2018-10-17T20:37:49.468Z,"76km W of Lata, Solomon Islands",earthquake,,,,,reviewed,us,us
+2011-03-11T05:46:24.120Z,38.297,142.373,29,9.1,mww,541,9.5,,1.16,official,official20110311054624120_30,2018-10-17T20:34:32.261Z,"near the east coast of Honshu, Japan",earthquake,,,,,reviewed,us,official
+2010-02-27T06:34:11.530Z,-36.122,-72.898,22.9,8.8,mww,454,17.8,,1.09,official,official20100227063411530_30,2018-10-17T20:32:37.633Z,"offshore Bio-Bio, Chile",earthquake,,9.2,,,reviewed,us,official

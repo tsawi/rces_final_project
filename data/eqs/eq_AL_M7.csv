@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2018-11-30T17:29:29.206Z,61.3234,-149.9234,44.1,7,mww,,,,0.7,ak,ak20419010,2018-12-02T17:12:08.789Z,"12km N of Anchorage, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2018-01-23T09:31:40.890Z,56.0039,-149.1658,14.06,7.9,mww,,30,2.585,0.77,us,us2000cmy3,2018-11-26T22:18:16.896Z,"280km SE of Kodiak, Alaska",earthquake,6,2.8,0.034,81,reviewed,us,us
+2016-01-24T10:30:30.230Z,59.6363,-153.4051,129,7.1,mww,,19,0.72,2.11,us,us10004gqp,2018-10-17T21:48:40.300Z,"86km E of Old Iliamna, Alaska",earthquake,5,1.8,,,reviewed,us,us
+2013-01-05T08:58:19.330Z,55.393,-134.652,10,7.5,mww,659,28.5,,1.26,us,usp000jxum,2018-10-17T20:37:37.780Z,"Southeastern Alaska",earthquake,,,,,reviewed,us,us

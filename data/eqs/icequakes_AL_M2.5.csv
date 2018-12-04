@@ -1,0 +1,25 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2018-11-01T07:10:37.770Z,59.9322,-141.3198,1.6,2.5,ml,,,,0.58,ak,ak20308292,2018-11-28T08:29:44.040Z,"63km ESE of Cape Yakataga, Alaska",ice quake,,0.2,,,reviewed,ak,ak
+2017-09-28T05:24:19.870Z,58.3306,-137.386,1,2.6,ml,,223,0.715,1.16,us,us2000avrm,2017-12-22T21:56:26.040Z,"96km W of Gustavus, Alaska",ice quake,3.3,2,0.061,35,reviewed,us,us
+2017-09-28T03:26:23.490Z,58.423,-137.2907,1,2.6,ml,,212,0.727,1.01,us,us2000avqn,2017-12-22T21:56:25.040Z,"90km W of Gustavus, Alaska",ice quake,2.8,5.5,0.081,20,reviewed,us,us
+2017-09-28T02:02:05.280Z,58.4813,-137.15,1,2.5,ml,,,,1.25,us,us1000avtf,2017-12-22T21:56:25.040Z,"82km W of Gustavus, Alaska",ice quake,2.8,6.1,0.074,24,reviewed,pgc,us
+2017-09-28T00:29:41.890Z,58.4573,-137.0843,1,2.5,ml,,193,1.175,0.94,us,us1000ayax,2017-12-22T21:56:25.040Z,"78km W of Gustavus, Alaska",ice quake,2.1,2,0.085,18,reviewed,us,us
+2017-09-27T21:07:57.120Z,58.447,-137.191,1,2.5,ml,,206,0.703,0.95,us,us1000axy0,2017-12-22T21:56:25.040Z,"85km W of Gustavus, Alaska",ice quake,2.5,1.5,0.069,28,reviewed,us,us
+2017-02-17T18:29:27.170Z,58.4921,-137.0278,0,2.6,ml,,,,1.25,us,us20008mck,2017-05-13T01:03:23.040Z,"75km W of Gustavus, Alaska",ice quake,4,3.2,0.073,25,reviewed,ak,us
+2012-07-03T13:10:52.574Z,58.3137,-133.4727,0,2.7,ml,,,,0.86,ak,ak0128i683ft,2018-07-07T01:46:03.413Z,"Southeastern Alaska",ice quake,,0,,,reviewed,ak,ak
+2012-07-03T09:11:37.368Z,58.3128,-133.5386,0,2.9,ml,,,,0.63,ak,ak0128i3ujk8,2018-07-07T01:45:58.675Z,"Southeastern Alaska",ice quake,,0,,,reviewed,ak,ak
+2012-07-02T19:30:45.898Z,58.2975,-133.5411,0,2.5,ml,,,,0.69,ak,ak0128gmdmdp,2018-07-07T01:45:43.868Z,"Southeastern Alaska",ice quake,,0,,,reviewed,ak,ak
+2012-07-02T15:00:01.170Z,58.3327,-133.4691,0,2.8,ml,,,,0.68,ak,ak0128gjtd11,2018-07-07T01:45:39.226Z,"Southeastern Alaska",ice quake,,0,,,reviewed,ak,ak
+2012-07-02T12:26:22.262Z,58.3255,-133.4978,0,2.7,ml,,,,0.48,ak,ak0128gi6ogi,2018-07-07T01:45:38.097Z,"Southeastern Alaska",ice quake,,0,,,reviewed,ak,ak
+2012-07-02T00:37:46.613Z,58.3294,-133.4708,0,3,ml,,,,0.77,ak,ak0128gb3vyd,2018-07-07T01:45:34.852Z,"Southeastern Alaska",ice quake,,0,,,reviewed,ak,ak
+2012-07-01T14:28:01.412Z,58.3297,-133.4602,0,2.8,ml,,,,0.55,ak,ak0128evukzx,2018-07-07T01:45:20.063Z,"Southeastern Alaska",ice quake,,0,,,reviewed,ak,ak
+2012-07-01T04:20:50.256Z,58.3535,-133.5334,0,2.5,ml,,,,0.98,ak,ak0128epumzl,2018-07-07T01:45:16.178Z,"Southeastern Alaska",ice quake,,0,,,reviewed,ak,ak
+2012-06-11T22:23:54.116Z,58.8616,-137.323,0,3.4,ml,,,,0.65,ak,ak0127hxu5g3,2018-07-07T01:37:49.895Z,"Southeastern Alaska",ice quake,,0,,,reviewed,ak,ak
+2011-09-17T05:23:42.926Z,58.3484,-133.4879,1.7,2.9,ml,,,,0.55,ak,ak011by2uf78,2018-07-07T00:02:57.871Z,"Southeastern Alaska",ice quake,,0.2,,,reviewed,ak,ak
+2011-09-17T05:19:32.323Z,58.2996,-133.5908,12.8,2.6,ml,,,,0.66,ak,ak011by2tjio,2018-07-07T00:02:57.596Z,"Southeastern Alaska",ice quake,,0.1,,,reviewed,ak,ak
+2011-09-16T00:43:05.908Z,58.3674,-133.4416,4,2.5,ml,,,,0.62,ak,ak011bwcg45a,2018-07-07T00:02:46.944Z,"Southeastern Alaska",ice quake,,0.3,,,reviewed,ak,ak
+2011-09-15T19:42:09.230Z,58.3926,-133.5754,0,2.5,ml,,,,0.55,ak,ak011bv07sor,2018-07-07T00:02:13.716Z,"Southeastern Alaska",ice quake,,0,,,reviewed,ak,ak
+2011-09-15T12:11:46.821Z,58.3174,-133.5304,0,3,ml,,,,1.02,ak,ak011buvv75m,2018-07-07T00:02:07.363Z,"Southeastern Alaska",ice quake,,0,,,reviewed,ak,ak
+2011-06-07T05:45:18.838Z,58.3857,-133.5136,5.3,3,ml,,,,0.75,ak,ak01179e5oq3,2018-07-06T23:26:36.062Z,"Southeastern Alaska",ice quake,,5.7,,,reviewed,ak,ak
+2011-04-06T01:27:58.761Z,58.0041,-133.0047,0,2.8,ml,,,,1.17,ak,ak0114escnvo,2018-07-12T19:53:26.055Z,"Southeastern Alaska",ice quake,,0,,,reviewed,ak,ak
+2010-11-09T06:11:02.718Z,57.7858,-133.2808,0,2.7,ml,,,,0.89,ak,ak010edqula7,2018-07-06T22:21:06.301Z,"Southeastern Alaska",ice quake,,0,,,reviewed,ak,ak
