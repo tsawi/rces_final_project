@@ -50,7 +50,6 @@ Large calving events in marine-terminating glaciers produce vibrations in the so
 
 
 
-<<<<<<< HEAD
 Large calving events in marine-terminating glaciers produce vibrations in the solid earth known as "glacial earthquakes", detectable at large distances and cataloged by the Harvard's Global CMT.   
   
 I plan to use this catalog of glacial earthquakes, along with maps of estimated ice properties (velocity, basal thermal state, and surface melt) in order to investigate correlations between the ice properties and locations of the glacial earthquakes in the Greenland Ice Sheet.  
