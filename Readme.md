@@ -1,4 +1,4 @@
-## Final Project Description
+## Final Project
 
 
 #### Theresa Sawi  
@@ -7,16 +7,13 @@
 
 
 
-###  Are Greenland Glacial Earthquakes Remotely Triggered by Major Earthquakes? 
+###  Can large earthquakes remotely trigger glacial earthquakes in Greenland?
 
 
-Large calving events in marine-terminating glaciers produce vibrations in the solid earth known as "glacial earthquakes", detectable at large distances and cataloged by the Harvard's Global CMT (from 1993-2013). I want to investigate if major (M>8) earthquakes around the globe can trigger the occurrence of glacial earthquakes at Greenland. I will use the Global CMT catalog of glacial earthquakes as well as the USGS global M>8 earthquakes (from 1993-2013) to investigate any possible temporal correlations between the two groups.
+Large calving events in marine-terminating glaciers produce vibrations in the solid earth known as "glacial earthquakes", detectable at large distances and cataloged by the Harvard's Global CMT (from 1993-2013). I want to investigate if large earthquakes can trigger glacial earthquakes, specifically in Greenland and Alaska. I will use the Global CMT catalog of glacial earthquakes as well as the USGS global M>8 earthquakes (from 1993-2013) to investigate any possible temporal correlations between tectonic and glacial earthquakes in Greenland. 
+
 
 #### Data: 
-
-[Global CMT catalog of glacial earthquakes (from 1993-2013)](https://www.globalcmt.org/Events/)
-
-[USGS global M>8 earthquakes (from 1993-2013)](https://earthquake.usgs.gov/earthquakes/search/)
 
 
 [Global CMT catalog of glacial earthquakes (from 1993-2013)](https://www.ldeo.columbia.edu/~gcmt/projects/CMT/catalog/GLEA/GLEA_1993_2013_merged.txt)  
@@ -31,12 +28,21 @@ Large calving events in marine-terminating glaciers produce vibrations in the so
 │   ├── balancevelo  
 │   ├── basalThermalState  
 │   ├── eqs  
-│   └── surfaceMelt  
+│   └── surfaceMeltdd  
 ├── literature  
 └── notebooks**FINAL PROJECT NOTEBOOK IN HERE!!**  
 
 
 
+*end*
+
+
+
+
+
+
+
+#### ignore below here###
 Large calving events in marine-terminating glaciers produce vibrations in the solid earth known as "glacial earthquakes", detectable at large distances and cataloged by the Harvard's Global CMT.   
   
 I plan to use this catalog of glacial earthquakes, along with maps of estimated ice properties (velocity, basal thermal state, and surface melt) in order to investigate correlations between the ice properties and locations of the glacial earthquakes in the Greenland Ice Sheet.  
