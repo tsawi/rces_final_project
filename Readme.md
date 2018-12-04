@@ -25,18 +25,6 @@ Large calving events in marine-terminating glaciers produce vibrations in the so
   
     
  
- .
-├── data  
-│   ├── balancevelo  
-│   ├── basalThermalState  
-│   ├── eqs  
-│   └── surfaceMelt  
-├── literature  
-└── notebooks  
-    └── classnotes  
-
-
-
 #### File structure  
  .
 ├── data  
@@ -45,8 +33,7 @@ Large calving events in marine-terminating glaciers produce vibrations in the so
 │   ├── eqs  
 │   └── surfaceMelt  
 ├── literature  
-└── notebooks  
-    └── classnotes  
+└── notebooks**FINAL PROJECT NOTEBOOK IN HERE!!**  
 
 
 
